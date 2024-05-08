@@ -12,6 +12,6 @@ Sum(a, b);
 
 class a
 {
-    //Console.WriteLine();
+    //Console.WriteLine(.);
 }
 
