@@ -1,7 +1,7 @@
 ﻿//alireza ghasemi
 //amir hossein omidi
 //reza zare
-//seyed mohsen mosavi
+//mohsen mosavi
 static void Sum(int a, int b)
 {
     Console.WriteLine(a + b);
