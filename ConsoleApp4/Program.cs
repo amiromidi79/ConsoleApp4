@@ -12,5 +12,6 @@ Sum(a, b);
 
 class a
 {
-    global::System.Console.WriteLine();
+    //Console.WriteLine();
 }
+
